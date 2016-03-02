@@ -1,0 +1,42 @@
+
+
+
+ @font-face{
+
+    font-family: 'wf_SegoeUILight';
+    src:url('http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Light/latest.eot');
+    src:url('http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Light/latest.eot?#iefix') format('embedded-opentype'),
+           url('http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Light/latest.woff') format('woff'),
+           url('http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Light/latest.ttf') format('truetype'),
+           url('http://i.s-microsoft.com/fonts/Segoe-UI/Cyrillic/Light/latest.svg#web') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'philosopherregular';
+    src: url('philosopher/philosopher-regular-webfont.eot');
+    src: url('philosopher/philosopher-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('philosopher/philosopher-regular-webfont.woff2') format('woff2'),
+         url('philosopher/philosopher-regular-webfont.woff') format('woff'),
+         url('philosopher/philosopher-regular-webfont.ttf') format('truetype'),
+         url('philosopher/philosopher-regular-webfont.svg#philosopherregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'svgfont';
+    src: url('iconsFont/small-icon-png-webfont.eot');
+    src: url('iconsFont/small-icon-png-webfont.eot?#iefix') format('embedded-opentype'),
+         url('iconsFont/small-icon-png-webfont.woff2') format('woff2'),
+         url('iconsFont/small-icon-png-webfont.woff') format('woff'),
+         url('iconsFont/small-icon-png-webfont.ttf') format('truetype'),
+         url('iconsFont/small-icon-png-webfont.svg#svgfont_0regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
